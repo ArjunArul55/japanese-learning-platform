@@ -1,4 +1,4 @@
-# japanese-learning-platform
+
 # Japanese Learning Platform
 
 A Python-based project intended for building an interactive Japanese language learning platform.
