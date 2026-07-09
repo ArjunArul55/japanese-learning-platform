@@ -3,12 +3,6 @@
 
 A Python-based project intended for building an interactive Japanese language learning platform.
 
-## Project Status
-
-🚧 **Work in Progress**
-
-This repository is currently under development. The project structure has been initialized, and implementation will be added in future updates.
-
 ## Repository Structure
 
 ```text
@@ -48,10 +42,6 @@ cd japanese-learning-platform
 ```
 
 Future dependencies and setup instructions will be added as the project develops.
-
-## Project Status
-
-This project is currently in its initial development phase. Contributions, suggestions, and feedback are welcome.
 
 
 ## License
